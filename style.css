@@ -7,7 +7,9 @@ body{
     color: aquamarine;
     
 }  
-header{ background-color: rgb(243, 156, 18);}
+header{ background-color: rgb(243, 156, 18);
+       position: fixed;
+       width: 100%;}
 img{
     width:300px ;
     height:300px ;  
