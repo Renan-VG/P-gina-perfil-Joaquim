@@ -3,11 +3,11 @@ body{
     text-align: center;
     font-family: arial;
     font-size: 24px;
-    background-color: green;
+    background-color: rgb(84, 153, 199);
     color: aquamarine;
     
 }  
-header{ background-color: rgb(162, 217, 206);}
+header{ background-color: rgb(243, 156, 18);}
 img{
     width:300px ;
     height:300px ;  
